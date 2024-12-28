@@ -1,0 +1,4 @@
+1. Class and Objects in Python
+2. Everything in Python is an Object(Data Structure, Datatype etc)
+3. Advantages of OOP: You can create your own datatype, code reusability, easy debugging, easy to colab
+        
